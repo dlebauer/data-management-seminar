@@ -3,9 +3,7 @@
 
 ## Objective 
 
-The goal of this course will be to train graduate students in the data lifecycle from collection to analysis. The seminar course will include weekly lectures.
-
-
+The objective of this course will be to introduce students to the data lifecycle and skills necessary to make use of data from heterogeneous sources as a first step toward synthetic analysis. Students will learn how to curate data, collect their own data, and make use of existing repositories. They will also be introduced to the landscape of available data and repositories. Finally, they will learn the fundamentals of exploratory data analysis and reproducible research.
 
 ## Topics
 
@@ -18,7 +16,7 @@ The goal of this course will be to train graduate students in the data lifecycle
 * Exploratory data analysis
 * Reproducible Research
 
-## time
+## Time
 
 One hour per week of lecture
 
