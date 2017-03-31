@@ -18,3 +18,8 @@ Topics will include:
 The course could be extended in two ways:
  * one hour / week of lab so that students can learn hands on 
  * group projects that allow students to explore problems related to their own field of interest through the lens of curating a dataset. Prior to beginning the course, students will identify a small dataset that they will curate over the course of the semester.
+
+
+Rationale: 
+
+![](barone2017unmet_needs_big_data.png)
